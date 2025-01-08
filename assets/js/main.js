@@ -3621,14 +3621,4 @@ function removeOpen(index1) {
 
 
 
- document.getElementById("sendMessage").addEventListener("click", function() {
-
-      // const phoneNumber = "9082732537"; 
-      const message = encodeURIComponent("Hello! This is a predefined message. From the Tap Savvy Product enquriy for business cards.....");
-
-   
-      const whatsappUrl = ` https://api.whatsapp.com/send?phone=9082158632?${message}`;
-
-     
-      window.open(whatsappUrl, "_blank");
-    });
+ 

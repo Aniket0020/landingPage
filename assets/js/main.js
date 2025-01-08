@@ -3618,3 +3618,17 @@ function removeOpen(index1) {
 }
 
 //hero section img slider
+
+
+
+//  document.getElementById("sendMessage").addEventListener("click", function() {
+
+//       const phoneNumber = "9082732537"; 
+//       const message = encodeURIComponent("Hello! This is a predefined message. From the Tap Savvy Product enquriy for business cards.....");
+
+   
+//       const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
+
+     
+//       window.open(whatsappUrl, "_blank");
+//     });
